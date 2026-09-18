@@ -1,0 +1,16 @@
+# Compiled output directories
+/bin/
+/out/
+/target/
+
+# Compiled Java class files
+*.class
+
+# Serialized data files
+*.ser
+*.dat
+
+# IDE specific files
+.vscode/
+.idea/
+*~
